@@ -1,4 +1,3 @@
 # odin-recipes
 
-This is a simple project that utilizes all of my initial HTML learnings at The Odin Project (TOP).
-I will create a webpage that will showcase different dishes and its recipes. 
+First odin html assignment on a recipe webpage.
